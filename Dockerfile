@@ -1,6 +1,6 @@
 FROM centos
 
-MAINTAINER aksarav@middlewareinventory.com
+MAINTAINER manikanta@gmail.com
 
 RUN mkdir /opt/tomcat/
 
